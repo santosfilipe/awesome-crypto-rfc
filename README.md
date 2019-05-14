@@ -14,4 +14,8 @@ _**If you see a RFC here that is no longer maintained, was replaced by a new one
   * [MIME (Multipurpose Internet Mail Extensions) Part Three: Message Header Extensions for Non-ASCII Text (RFC 2047)](https://tools.ietf.org/html/rfc2047)
 * [Authentication](https://en.wikipedia.org/wiki/Authentication)
   * [TOTP: Time-Based One-Time Password Algorithm](https://tools.ietf.org/html/rfc6238)
+* [IETF Mailing List](https://www.ietf.org/how/lists/)
+  * [Transport Layer Security (tls)](https://datatracker.ietf.org/wg/tls/about/)
+  * [Using TLS in Applications (uta)](https://datatracker.ietf.org/wg/uta/about/)
+  * [Messaging Layer Security (mls)](https://datatracker.ietf.org/wg/mls/documents/)
  
