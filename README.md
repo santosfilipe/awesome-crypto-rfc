@@ -21,6 +21,7 @@ _**If you see a RFC here that is no longer maintained, was replaced by a new one
   * [MIME (Multipurpose Internet Mail Extensions) Part Three: Message Header Extensions for Non-ASCII Text (RFC 2047)](https://tools.ietf.org/html/rfc2047)
 * [Authentication](https://en.wikipedia.org/wiki/Authentication)
   * [TOTP: Time-Based One-Time Password Algorithm (RFC 6238)](https://tools.ietf.org/html/rfc6238)
+  * [The Kerberos Version 5 Generic Security Service Application Program Interface (GSS-API) Mechanism: Version 2 (RFC 4121)](https://tools.ietf.org/html/rfc4121)
 * [IETF Mailing List (NOT RFCs)](https://www.ietf.org/how/lists/)
   * [Transport Layer Security (tls)](https://datatracker.ietf.org/wg/tls/about/)
   * [Using TLS in Applications (uta)](https://datatracker.ietf.org/wg/uta/about/)
