@@ -15,6 +15,8 @@ _**If you see a RFC here that is no longer maintained, was replaced by a new one
   * [Advanced Encryption Standard (AES) Ciphersuites for Transport Layer Security (TLS) (RFC 3268)](https://tools.ietf.org/html/rfc3268)
   * [Prohibiting Secure Sockets Layer (SSL) Version 2.0 (RFC 6176)](https://tools.ietf.org/html/rfc6176)
   * [Representation and Verification of Domain-Based Application Service Identity within Internet Public Key Infrastructure Using X.509 (PKIX) Certificates in the Context of Transport Layer Security (TLS) (RFC 6125)](https://tools.ietf.org/html/rfc6125)
+  * [The Transport Layer Security (TLS) Protocol Version 1.3](https://tools.ietf.org/html/rfc8446)
+  * [Transport Layer Security (TLS) Extensions: Extension Definitions](https://tools.ietf.org/html/rfc6066)
 * [MIME](https://en.wikipedia.org/wiki/MIME)
   * [Multipurpose Internet Mail Extensions (MIME) Part One: Format of Internet Message Bodies (RFC 2045)](https://tools.ietf.org/html/rfc2045)
   * [Multipurpose Internet Mail Extensions (MIME) Part Two: Media Types (RFC 2046)](https://tools.ietf.org/html/rfc2046)
